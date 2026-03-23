@@ -5,5 +5,27 @@
       "logo": "https://zap.cooking/zap_cooking_logo_white.svg",
       "website_url": "https://zap.cooking"
     }
+  ],
+  "btcpay": [
+    {
+      "name": "Voltage",
+      "logo": "https://www.voltage.cloud/voltage-logo-white.svg",
+      "website_url": "https://voltage.cloud"
+    },
+    {
+      "name": "Aruba",
+      "logo": "https://branta.pro/assets/btcpay-logo.svg",
+      "website_url": "https://btc.aw"
+    },
+    {
+      "name": "Italy",
+      "logo": "https://branta.pro/assets/btcpay-logo.svg",
+      "website_url": "https://www.btcpayserver.it"
+    },
+    {
+      "name": "pay.branta.pro",
+      "logo": "https://branta.pro/assets/branta-b.png",
+      "website_url": "https://pay.branta.pro"
+    },
   ]
 }
